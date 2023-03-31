@@ -6,7 +6,7 @@ ME21B078 </br></br>
 **Previous Experience:** </br>
 Worked as a project member in Team Envisage, CFI </br></br>
 **Current PORs:** </br>
-Saathi coordnator </br></br>
+Saathi coordinator </br></br>
 **Why I want to work in the team:**</br>
 I obviously think this is the best team for me as Abhiyaan has a very specific software module. I am deeply interested in how autonomous cars work and want to be a part of the team which is participating in competitions related to ot. I will surely give my best if given an oppurtunity</br></br>
 **Relevant courses:** </br>
