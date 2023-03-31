@@ -19,6 +19,8 @@ Colt Steele :  Git and Github bootcamp
 **Other relevant things:**
 </br>Have sufficient knowledge of DSA
 </br>Worked with openCV and ML during my Envisage tenure
+</br></br>
+**Videos** <a href="https://drive.google.com/drive/folders/16xrrYGpMTu0TCHsovQ5Wj2mgFlpHeUTU?usp=share_link"> Q3,Q5</a>
 ## Question 1
 <div>
   <ul>
@@ -44,6 +46,8 @@ Colt Steele :  Git and Github bootcamp
     <li>I did the program in a single node</li>
     <li>Due to time constraint I couldn't finish subtask 2</li>
     <li>The first part of subtask 2 can easily be extracted from my code since at any time I can find the distance between Netero and Hisoka</li>
+    <li>Drive link for my catkin ws <a href="https://drive.google.com/drive/folders/16xrrYGpMTu0TCHsovQ5Wj2mgFlpHeUTU?usp=share_link">Q3</a></li>
+    <li>Noticed a bug at the last minute which kills Hisoka sometimes at the start. Will correct it in the coming days</li>
     <li>Reference <a href="https://youtu.be/D7ISrmszozk"> Anis Koubaa</a></li>
   </ul>
 </div>
