@@ -19,6 +19,35 @@ Colt Steele :  Git and Github bootcamp
 **Other relevant things:**
 </br>Have sufficient knowledge of DSA
 </br>Worked with openCV and ML during my Envisage tenure
+## Question 1
+<div>
+  <ul>
+    <li>I installed Ubuntu 20.04 and ros noetic on a virtual machine</li>
+    <li>Reference - <a href="https://youtu.be/x5MhydijWmc">Programming Knowledge</a>,<a href="https://youtu.be/ZEfh7NxLMxA"> Moster</a>
+  </ul>
+</div>
+
+## Question 2
+<div>
+  <ul>
+    <li>I created the necessary nodes in python as well as c++</li>
+    <li>My python nodes worked succesfully</li>
+    <li>I have also included the c++ nodes which had some build issues</li>
+    <li>Reference <a href="https://youtube.com/playlist?list=PLBbhfIdh4NdgBBkX7q0Y3UukO2_ZoICee"> Muhamman Luqman</a></li>
+  </ul>
+</div>
+
+## Question 3
+<div>
+  <ul>
+    <li>I have my killer turtle and prey turtle ready</li>
+    <li>I did the program in a single node</li>
+    <li>Due to time constraint I couldn't finish subtask 2</li>
+    <li>The first part of subtask 2 can easily be extracted from my code since at any time I can find the distance between Netero and Hisoka</li>
+    <li>Reference <a href="https://youtu.be/D7ISrmszozk"> Anis Koubaa</a></li>
+  </ul>
+</div>
+
 ## Question 5
 <div>
   <ul>
@@ -30,5 +59,15 @@ Colt Steele :  Git and Github bootcamp
     <li>Now that the classification is ready we can integrate the detection part with the code and the traffic sign detection is ready</li>
     <li>Accuracy is 0.9737 for the model</li>
     <li>Reference - <a href='https://youtu.be/SWaYRyi0TTs'>Murtaza's Workshop</a> </li>
+  </ul>
+</div>
+
+## Question 6
+<div>
+  <ul>
+    <li>I couldn't complete task 6 but here is my approach</li>
+    <li>For tracking,velocity and accelaration we can use a bounding box around the circle using opencv</li>
+    <li>I think all the data can be logged in from this information</li>
+    <li>For multiple people/circles we can use multiple bounding boxes with labelling</li>
   </ul>
 </div>
