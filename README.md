@@ -19,3 +19,16 @@ Colt Steele :  Git and Github bootcamp
 **Other relevant things:**
 </br>Have sufficient knowledge of DSA
 </br>Worked with openCV and ML during my Envisage tenure
+## Question 5
+<div>
+  <ul>
+    <li>I tried the question with an online model which uses CNN.</li>
+    <li>The code available wasn't free of bugs.</li>
+    <li>The training took around 3 hours.</li>
+    <li>The testing was supposed to be live time feed but I tweaked it to read images from my system and predict.</li>
+    <li>Due to time constraint I was able to do the classification part only.</li>
+    <li>Now that the classification is ready we can integrate the detection part with the code and the traffic sign detection is ready</li>
+    <li>Accuracy is 0.9737 for the model</li>
+    <li>Reference - <a href='https://youtu.be/SWaYRyi0TTs'>Murtaza's Workshop</a> </li>
+  </ul>
+</div>
